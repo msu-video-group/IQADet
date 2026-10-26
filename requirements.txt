@@ -1,0 +1,17 @@
+numpy
+pandas
+notebook
+ipywidgets
+nvitop
+matplotlib
+seaborn
+scikit-learn
+xgboost
+catboost
+optuna
+tqdm
+lightning
+datasets
+cleverhans
+opencv-python
+pyiqa

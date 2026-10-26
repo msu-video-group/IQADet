@@ -1,0 +1,6 @@
+file_name,dataset,preset,attack,metric,clip-iqa-plus,fpr,koncept,linearity,maniqa,meta-iqa,paq2piq,spaq,topiq-nr
+8718842570.png,koniq,preset_2,ifgsm,fpr,32,100,14,41,33,22,89,79,46
+8718842570.png,koniq,preset_2,ifgsm,paq2piq,38,4,17,69,34,60,100,90,82
+8718842570.png,koniq,preset_2,uap,fpr,44,100,6,18,19,16,83,30,29
+8718842570.png,koniq,preset_2,uap,paq2piq,11,10,11,58,8,84,100,66,88
+8718842570.jpg,koniq,clean,clean,clean,46,4,19,58,37,24,92,88,53

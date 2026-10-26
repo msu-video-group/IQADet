@@ -1,0 +1,9 @@
+models
+lightning_logs
+__pycache__
+test/cms*
+test/paths
+test/res
+drafts/
+.vscode/
+*.ckpt
